@@ -9,7 +9,7 @@
 - **Course:** Backend Development Fundamentals
 - **Lab:** Lab 3 – REST API, Query Parameters, Validation and Debugging
 - **Institution:** Aurora Deemed to be University
-- **Faculty:** Shiva Sai Teja
+- **Faculty:** Sai Siva Teja
 
 ## Deployment URL
 
