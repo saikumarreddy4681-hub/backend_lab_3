@@ -1,10 +1,11 @@
+
 # Lab 3 – REST API, Query Parameters, Validation and Debugging
 
 ## Project Details
 
-- **Name:** navadeep
-- **Registration Number:** 252U1R5061
-- **Section:** S-10
+- **Name:** P. Sai Kumar Reddy
+- **Registration Number:** 252U1R8075
+- **Section:** S-13
 - **Course:** Backend Development Fundamentals
 - **Lab:** Lab 3 – REST API, Query Parameters, Validation and Debugging
 - **Institution:** Aurora Deemed to be University
@@ -12,7 +13,7 @@
 
 ## Deployment URL
 
-**Render URL:** https://navadeep-5061-lab3.onrender.com/books
+**Render URL:** 
 
 ## Project Description
 
@@ -60,7 +61,7 @@ lab3/
 ### 1. Clone the repository
 
 ```bash
-git  https://github.com/Navadeep-Kakanaboina/navadeep_5061_lab3.git
+
 ```
 
 ### 2. Open the project folder
