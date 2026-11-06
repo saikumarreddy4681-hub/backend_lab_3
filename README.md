@@ -229,7 +229,7 @@ The tests include:
 
 ### 10. DELETE Request
 
-![DELETE Book](screenshots/DELETE%20Request.png)
+
 
 ## Conclusion
 
